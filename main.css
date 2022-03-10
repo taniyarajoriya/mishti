@@ -1,16 +1,15 @@
-header
-{ 
-           height: 72px;
-            border: 1px dashed  red;
-        } 
-      t-bdr{
-        border:1px dashed red;
-      } 
-      main{
-        height: 1500px;
-        border: 1px dashed blue;
-      }
-      footer{
-        height: 505px;
-        border: 1px dashed blue;
-      }
+header{ 
+  height: 72px;
+  border: 1px dashed  red;
+} 
+t-bdr{
+  border:1px dashed red;
+} 
+main{
+  height: 1500px;
+  border: 1px dashed blue;
+}
+footer{
+  height: 505px;
+  border: 1px dashed blue;
+}
