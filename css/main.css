@@ -1,9 +1,8 @@
-header{ 
+header{
+  margin: 0;
   height: 72px;
-} 
+  background-color: rgb(114, 228, 248);
+}
 main{
   min-height: 1500px;
-}
-t-tbdr{
-  background-color: rgb(189, 190, 194);
 }
